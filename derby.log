@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Feb 10 17:31:38 CET 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.1.0 - (1808820): instance a816c00e-017e-e479-d7e2-00000736ece8 
+on database directory C:\Users\olims\pv168\db\timesheet-for-freelancer with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@266474c2 
+Loaded from file:/C:/Users/olims/.m2/repository/org/apache/derby/derby/10.14.1.0/derby-10.14.1.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=16.0.1+9-24
+user.dir=C:\Users\olims\IdeaProjects\pv168-timesheet-for-freelancer
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
